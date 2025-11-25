@@ -1,6 +1,6 @@
-Taking advantage of Target's excellent Guild program which is paying for me to go through this Master's program at Bellevue University (Go Bruins!). 
-This repo will contain everything I work on throughout the ~10 quarters I'll be at the school. 
-
-Contents:
-1. Jupyter Sketches
-   little sketches working with jupyter outside of any particular project / assignment. Just finding my way around these new tools.
+# About This Repository
+I'm taking advantage of Target’s Guild program, which fully covers my Master’s in Data Science at Bellevue University (Go Bruins!).
+This repository will serve as a long-term archive of my work across the ~10 quarters of the program — assignments, projects, experiments, notes, and anything else I build along the way.
+# 📂 Contents
+## Jupyter Sketches:
+A collection of small exploratory notebooks. These are my practice ground for learning Jupyter, pandas, plotting, and various data science tools outside the context of specific assignments. Mostly experimentation and early drafts of ideas.
