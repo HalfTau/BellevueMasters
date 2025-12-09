@@ -1,8 +1,8 @@
--got to know everyone
--read Everyone Lies chatper 1-4
-	-people lie in surveys, not to google
-		-sexuality, anxieties, racism
-		-the data reveals things that might not be convetional
--excercise 1.2: "what is data science"
-	-DS is coming up with questions, diving into the data, doing more data stuff, then finding answers
-	-CRISP-DM: six-step methodology
+- got to know everyone
+- read Everyone Lies chatper 1-4
+	- people lie in surveys, not to google
+		- sexuality, anxieties, racism
+		- the data reveals things that might not be convetional
+- excercise 1.2: "what is data science"
+	- DS is coming up with questions, diving into the data, doing more data stuff, then finding answers
+	- CRISP-DM: six-step methodology
