@@ -7,3 +7,5 @@ This repository will serve as a long-term archive of my work across the ~10 quar
 # 📂 Contents
 ## Jupyter Sketches:
 A collection of small exploratory notebooks. These are my practice ground for learning Jupyter, pandas, plotting, and various data science tools outside the context of specific assignments. Mostly experimentation and early drafts of ideas.
+## Notes:
+Just little reviews on the week. Thoughts, comments, summaries.
